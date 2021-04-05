@@ -11,10 +11,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from GITA
 
 Joined Github **2** years ago.
 
-Since then I pushed **1489**+ commits, opened **152**+ issues, submitted **170**+ pull requests, created **17**+ gists and contributed to **13**+ public repositories.
+Since then I've pushed **191**+ commits
 
-
-<img align="right" height="250" width="375" alt="" src="" />
 
 ### Talking about Personal Stuff:
 
