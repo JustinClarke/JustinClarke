@@ -45,7 +45,6 @@ Since then I pushed **1489**+ commits, opened **152**+ issues, submitted **170**
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects and Dev Stuffs:
 <b>⚙️ Things I use to get stuff done</b>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> Microsoft Surface laptop</li>
