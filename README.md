@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Justin Clarke!](https://github.com/justinclarke/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarek.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarke.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/justiinclarke)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/justiinclarke/)
 
@@ -21,7 +21,7 @@ Since then I've pushed **191**+ commits
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: justinsavioclarke@outlook.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/blob/main/Resum%C3%A9.pdf).
 
 ### My Absolute Favorites:
 
