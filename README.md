@@ -28,7 +28,7 @@ Since then I've pushed **191**+ commits
 - 💻 &nbsp; I love exploring new tech stacks and applying them.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- 🎸 &nbsp; Playing guitar for some mindful escapism
+- 🎸 &nbsp; Play guitar for some mindful escapism
 
 ### Languages and Tools:
 
