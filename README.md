@@ -45,7 +45,7 @@ Since then I've pushed **191**+ commits
 -->
 
 <b>⚙️ Things I use to get stuff done</b>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Ubuntu 20.04, Windows 10 Pro</li>
 	    <li><b>Laptop: </b> Microsoft Surface laptop</li>
   	    <li><b>Browser: </b> Microsoft Edge</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
