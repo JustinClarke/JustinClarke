@@ -19,7 +19,6 @@ Since then I've pushed **191**+ commits
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: justinsavioclarke@outlook.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/Resum%C3%A9.pdf).
 
