@@ -14,7 +14,7 @@ Joined Github **2** years ago.
 Since then I've pushed **191**+ commits
 
 
-### A little about myself:
+### a little about myself:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
