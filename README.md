@@ -43,7 +43,7 @@ Since then I've pushed **191**+ commits
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-<b>⚙️ Things I use to get stuff done</b>
+<b>⚙️ things I use to get stuff done</b>
   	    <li><b>OS:</b> Ubuntu 20.04, Windows 10 Pro</li>
 	    <li><b>Laptop: </b> Microsoft Surface laptop</li>
   	    <li><b>Browser: </b> Microsoft Edge</li>
