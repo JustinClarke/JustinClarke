@@ -11,7 +11,7 @@ I'm a third year Computer Science Engineering Student 🎓 from GITAM University
 
 Joined Github **2** years ago.
 
-Since then I've pushed **191**+ commits
+Since then I've pushed **240**+ commits
 
 
 ### a little about myself:
