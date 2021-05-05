@@ -41,12 +41,12 @@ I've been using Github since **2** years, I've pushed **240**+ commits so far.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-<b>⚙️ Things I use to get stuff done</b>
-	<li><b>OS:</b> Ubuntu 20.04</li>
-	<li><b>Laptop: </b> Microsoft Surface laptop</li>
-	<li><b>Browser: </b> Microsoft Edge</li>
-	<li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	<li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+### Things I use to get stuff done:
+
+- OS: Ubuntu 20.04, Windows 10 Pro and Hackintosh.
+- Laptop: Microsoft Surface laptop
+- Browser: Microsoft Edge
+- Code Editor: VSCode - The best editor out there.
 
 <div align="center">
 
