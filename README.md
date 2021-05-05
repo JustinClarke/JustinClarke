@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Justin Clarke!](https://github.com/justinclarke/)
+## Hey, I'm [Justin Clarke!](https://github.com/justinclarke/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarke.netlify.app/)
@@ -7,7 +7,7 @@
 
 ### Glad to see you here!
 
-I'm a third year Computer Science Engineering Student 🎓 from GITAM University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a third year Computer Science Engineering Student from GITAM University. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structures and Algorithms.
 
 Joined Github **2** years ago.
 
@@ -25,8 +25,7 @@ Since then I've pushed **240**+ commits
 ### things i do:
 
 - 💻 &nbsp; I love exploring new tech stacks and applying them.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; Hackathons & keep up with newtech.
 - 🎸 &nbsp; Play guitar for some mindful escapism
 
 ### Languages and Tools:
