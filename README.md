@@ -44,7 +44,7 @@ I've been using Github since **2** years, I've pushed **320**+ commits so far.
 
 ### things I use to get stuff done:
 
-- Ubuntu 20.04, Windows 10 Pro and MacOS
+- Ubuntu 20.04, Windows 10 Pro and MacOS X
 - Surface Laptop and Mac Mini
 - VSCode
 
