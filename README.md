@@ -10,7 +10,7 @@
 I'm a third year Computer Science Engineering Student from GITAM University. I love exploring new tech and apply them to solve problems. 
 I'm into Web Development and working on my Data Structures and Algorithms.
 
-I've been using Github since **2** years, I've pushed **320**+ commits so far.
+I've been using Github since **2** years, I've pushed **420**+ commits so far.
 
 
 ### a little about myself:
