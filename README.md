@@ -15,17 +15,16 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 
 ### a little about myself:
 
-- 🛠 &nbsp; I work with Nodejs, Express, React, Graphql, Mongodb, and Javascript.
-- 🚀 &nbsp; Learning Full Stack Development at the moment.
+- 🛠 &nbsp; I work with Nodejs, Express, React, Graphql, Mongodb, and Javascript
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
 - 📫 &nbsp; Reach me at: justinsavioclarke@outlook.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/Resum%C3%A9.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/resume.pdf).
+- 📝 &nbsp; visit my [porfolio](https://justinclarke.web.app).
 
 ### things i do:
 
 - 💻 &nbsp; explore new tech stacks
 - 📰 &nbsp; read and write tech blogs
-- 👩🏻‍💻 &nbsp; hackathons and tech events
 - 🎸 &nbsp; oh, and I play guitar too
 <!-- 
 ### Languages and Tools:
