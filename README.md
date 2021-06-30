@@ -19,7 +19,7 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
 - 📫 &nbsp; Reach me at: justinsavioclarke@outlook.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/resume.pdf).
-- ⚛ &nbsp; Visit my [porfolio](https://justinclarke.web.app).
+- ⚛ &nbsp; Visit my [portfolio](https://justinclarke.web.app).
 
 ### things i do:
 
