@@ -43,9 +43,9 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 
 ### things I use to get stuff done:
 
-- MacOS X, Ubuntu 20.04
+- MacOS X | Ubuntu 20.04
 - MacBook Air
-- VSCode
+- VSCode | Espresso
 
 <div align="center">
 
