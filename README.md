@@ -16,7 +16,7 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 ### a little about myself:
 
 - &nbsp; I work with Nodejs, Express, React, Graphql, Mongodb, and Javascript
-- &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke)
+- &nbsp; Most of my projects are available on [GitHub](https://github.com/justinclarke)
 - &nbsp; Reach me at: justinsavioclarke@outlook.com
 - &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/resume.pdf)
 - &nbsp; Visit my [portfolio](https://justinclarke.web.app)
