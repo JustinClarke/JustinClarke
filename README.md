@@ -1,4 +1,4 @@
-## Hey 👋🏻, I'm [Justin Clarke!](https://github.com/justinclarke/)
+## Hey 👋🏻, I'm [Justin Clarke!](https://justinclarke.web.app)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarke.netlify.app/)
@@ -15,18 +15,17 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 
 ### a little about myself:
 
-- 🛠 &nbsp; I work with Nodejs, Express, React, Graphql, Mongodb, and Javascript.
-- 🚀 &nbsp; Learning Full Stack Development at the moment.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/justinclarke).
-- 📫 &nbsp; Reach me at: justinsavioclarke@outlook.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/Resum%C3%A9.pdf).
+- &nbsp; I work with Nodejs, Express, React, Graphql, Mongodb, and Javascript
+- &nbsp; Most of my projects are available on [GitHub](https://github.com/justinclarke)
+- &nbsp; Reach me at: justinsavioclarke@outlook.com
+- &nbsp; Checkout my [Resume](https://github.com/JustinClarke/JustinClarke/raw/main/resume.pdf)
+- &nbsp; Visit my [portfolio](https://justinclarke.web.app)
 
 ### things i do:
 
-- 💻 &nbsp; explore new tech stacks
-- 📰 &nbsp; read and write tech blogs
-- 👩🏻‍💻 &nbsp; hackathons and tech events
-- 🎸 &nbsp; oh, and I play guitar too
+- &nbsp; explore new tech stacks
+- &nbsp; read and write tech blogs
+- &nbsp; oh, and I play guitar too
 <!-- 
 ### Languages and Tools:
 
@@ -44,9 +43,9 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 
 ### things I use to get stuff done:
 
-- Ubuntu 20.04, Windows 10 Pro and MacOS X
-- Surface Laptop and Mac Mini
-- VSCode
+- MacOS X | Ubuntu 20.04
+- MacBook Air | Surface Laptop
+- VSCode | Espresso
 
 <div align="center">
 
