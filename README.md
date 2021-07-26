@@ -43,8 +43,8 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 
 ### things I use to get stuff done:
 
-- MacOS X | Ubuntu 20.04
-- MacBook Air M1 | Surface Laptop i7
+- MacOS X | Ubuntu
+- MacBook Air | Surface Laptop
 - VSCode | Espresso
 
 <div align="center">
