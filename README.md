@@ -44,7 +44,6 @@ I'm into Web Development and working on my Data Structures and Algorithms.
 ### things I use to get stuff done:
 
 - MacOS X | Ubuntu
-- MacBook Air | Surface Laptop
 - VSCode | Espresso
 
 <div align="center">
