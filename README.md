@@ -7,10 +7,10 @@
 
 ### Glad to see you here!
 
-I'm a third year Computer Science Engineering Student from GITAM University. I love exploring new tech and apply them to solve problems. 
+I'm a final year Computer Science Engineering Student from GITAM University. I love exploring new tech and apply them to solve problems. 
 I'm into Web Development and working on my Data Structures and Algorithms.
 
-I've been using Github since **3** years, I've pushed **420**+ commits so far.
+<!-- I've been using Github since **3** years, I've pushed **420**+ commits so far. -->
 
 
 ### a little about myself:
@@ -43,8 +43,7 @@ I've been using Github since **3** years, I've pushed **420**+ commits so far.
 
 ### things I use to get stuff done:
 
-- MacOS X | Ubuntu 20.04
-- MacBook Air | Surface Laptop
+- MacOS X | Ubuntu
 - VSCode | Espresso
 
 <div align="center">
