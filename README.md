@@ -17,7 +17,7 @@ I'm into Web Development and working on my Data Structures and Algorithms.
 
 - &nbsp; I work with Nodejs, Express, React, and Mongodb
 - &nbsp; Most of my projects are available on [GitHub](https://github.com/justinclarke)
-- &nbsp; Reach me at: justinsavioclarke@outlook.com
+- &nbsp; Reach me at justinsavioclarke@outlook.com
 - &nbsp; Checkout my [resume](https://github.com/JustinClarke/JustinClarke/raw/main/resume.pdf)
 - &nbsp; Visit my [portfolio](https://justinclarke.web.app)
 
