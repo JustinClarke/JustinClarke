@@ -47,7 +47,5 @@ I'm into Web Development and working on my Data Structures and Algorithms.
 - VSCode | Espresso
 
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
