@@ -7,7 +7,7 @@
 
 ### Glad to see you here!
 
-I'm a final year undergrad student. I love exploring new tech and apply them to solve problems. 
+I'm a computer science undergradate. I love exploring new tech and apply them to solve problems. 
 I'm into Web Development and working on my Data Structures and Algorithms.
 
 <!-- I've been using Github since **3** years, I've pushed **420**+ commits so far. -->
