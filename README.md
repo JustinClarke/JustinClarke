@@ -1,33 +1,25 @@
 ## Hey 👋🏻, I'm [Justin Clarke!](https://justinclarke.web.app)
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarke.netlify.app/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/justiinclarke)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/justiinclarke/) -->
-
 ### Glad to see you here!
 
 I'm a computer science undergradate. I love exploring new tech and apply them to solve problems. 
 I'm into Web Development and working on my Data Structures and Algorithms.
 
-<!-- I've been using Github since **3** years, I've pushed **420**+ commits so far. -->
-
-
-### a little about myself:
+### A little about myself:
 
 - &nbsp; I work with Mongodb, Express, React, and Node
 - &nbsp; Most of my projects are available on [GitHub](https://github.com/justinclarke)
-- &nbsp; Reach me at justinsavioclarke@outlook.com
+- &nbsp; Reach me at justinclarke241@gmail.com
 - &nbsp; Checkout my [resume](https://github.com/JustinClarke/JustinClarke/raw/main/resume.pdf)
 - &nbsp; Visit my [portfolio](https://justinclarke.web.app)
 
-### things i do:
+### Things i do:
 
 - &nbsp; explore new tech stacks
 - &nbsp; read and write tech blogs
 - &nbsp; oh, and I play guitar too
 
-### things I use to get stuff done:
+### Things I use to get stuff done:
 
 - MacOS X | Ubuntu
 - VSCode | Espresso
@@ -54,8 +46,13 @@ alt="sass"></code>
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=JustinClarke&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
   
-<div align="center">
+<!-- <div align="center"> -->
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+<!-- </div> -->
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarke.netlify.app/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/justiinclarke)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/justiinclarke/) -->
