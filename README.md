@@ -42,15 +42,16 @@ alt="git"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" 
 alt="sass"></code>
 
+---
 
 ![Justin's github stats](https://github-readme-stats.vercel.app/api?username=JustinClarke&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
   
-<!-- <div align="center"> -->
+<div align="left">
 
 ### Show some ❤️ by starring some of the repositories!
 
-<!-- </div> -->
+</div>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://justinclarke.netlify.app/)
