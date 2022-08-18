@@ -17,7 +17,6 @@ I'm into Web Development and working on my Data Structures and Algorithms.
 
 - &nbsp; explore new tech stacks
 - &nbsp; read and write tech blogs
-- &nbsp; oh, I play guitar too
 
 ### Things I use to get stuff done:
 
