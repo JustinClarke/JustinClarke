@@ -2,7 +2,7 @@
 
 ### Glad to see you here!
 
-I'm a computer science undergradate. I love exploring new tech and apply them to solve problems. 
+I'm a computer science student. I love exploring new tech and apply them to solve problems. 
 I'm into Web Development and working on my Data Structures and Algorithms.
 
 ### A little about myself:
